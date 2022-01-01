@@ -1,0 +1,71 @@
+body{
+    background-color: darkgray;
+}
+.all{
+    height: 374px;
+    background-color: aquamarine;
+    margin: 10px 300px;
+}
+.con1{
+    display: flex;
+    margin-left: 236px;
+}
+.con2{
+    display: flex;
+    margin-left: 32px;
+}
+img{
+    height: 285px;
+    margin-top: -15px;
+    margin-left: 122px;
+}
+.con22{
+    display: flex;
+    font-size: 18px;
+    margin-top: -20px;
+    margin-left: 6px;
+}
+.con221{
+    margin-left: 16px;
+}
+.con2221{
+    margin-left: -18px;
+}
+.con22211{
+    margin-left: -7px;
+}
+.con222111{
+    margin-left: -19px;
+}
+.con222{
+    margin-left: 4px;
+}
+.con3{
+    display: flex;
+    margin-left: 365px;
+    margin-top: -65px;
+    font-size: 20px;
+}
+a{
+    margin-top: 19px;
+    margin-left: 4px;
+    position: relative;
+}
+i{
+    margin-left: 177px;
+    margin-top: 22px;
+    color: crimson;
+    position: absolute;
+}
+.music{
+    margin-top: 1px;
+    margin-left: 66px;
+}
+iframe{
+    width: 100%;
+    height: 20px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
